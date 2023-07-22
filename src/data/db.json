@@ -1,0 +1,147 @@
+{
+    "cinemas":[
+        {
+            "id": 1,
+            "name": "San sur",
+            "cantidadSalas": 4
+        },
+        {
+            "id": 2,
+            "name": "Cinemark",
+            "cantidadSalas": 5
+        },
+        {
+            "id": 3,
+            "name": "Cine colombia",
+            "cantidadSalas": 6
+        }
+    ],
+    "salas":[
+        {
+            "id": 1,
+            "name": "Sala 1",
+            "idCinema": 1,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 2,
+            "name": "Sala 2",
+            "idCinema": 1,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 3,
+            "name": "Sala 3",
+            "idCinema": 1,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 4,
+            "name": "Sala 4",
+            "idCinema": 1,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 5,
+            "name": "Sala 1",
+            "idCinema": 2,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 6,
+            "name": "Sala 2",
+            "idCinema": 2,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 7,
+            "name": "Sala 3",
+            "idCinema": 2,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 8,
+            "name": "Sala 4",
+            "idCinema": 2,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 9,
+            "name": "Sala 5",
+            "idCinema": 2,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 10,
+            "name": "Sala 1",
+            "idCinema": 3,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 11,
+            "name": "Sala 2",
+            "idCinema": 3,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 12,
+            "name": "Sala 3",
+            "idCinema": 3,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 13,
+            "name": "Sala 4",
+            "idCinema": 3,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 14,
+            "name": "Sala 5",
+            "idCinema": 3,
+            "cantidadAsientos": 30
+        },
+        {
+            "id": 15,
+            "name": "Sala 6",
+            "idCinema": 3,
+            "cantidadAsientos": 30
+        }
+    ],
+    "functions": [
+        {
+            "id": 1,
+            "idPelicula": "",
+            "idSala": 1,
+            "horarioInicio": "10:00",
+            "price": "10000"
+        }
+    ],
+    "tikect": [
+        {
+            "id": 1,
+            "idFuncion": 1,
+            "codigoSilla": ["A1", "A2"],
+            "comprador":{
+                "email": "",
+                "codigoCompra": "",
+                "StatusTransaction": true
+            }
+        }
+    ],
+    "admin" : [
+        {
+            "id": 1,
+            "name": "Stefannya Onofre",
+            "user": "stefannya",
+            "password": "stefannya123"
+        },
+        {
+            "id": 2,
+            "name": "Snaidy Giraldo",
+            "user": "snaidy",
+            "password": "snaidy123"
+        }
+    ]
+    
+}
