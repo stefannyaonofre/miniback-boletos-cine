@@ -111,10 +111,243 @@
     "functions": [
         {
             "id": 1,
-            "idPelicula": "",
+            "idPelicula": 298618,
             "idSala": 1,
-            "horarioInicio": "10:00",
-            "price": "10000"
+            "horarioInicio": "18:00",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 2,
+            "idPelicula": 298618,
+            "idSala": 2,
+            "horarioInicio": "19:00",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 3,
+            "idPelicula": 298618,
+            "idSala": 3,
+            "horarioInicio": "21:30",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 4,
+            "idPelicula": 298618,
+            "idSala": 4,
+            "horarioInicio": "18:00",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 5,
+            "idPelicula": 298618,
+            "idSala": 5,
+            "horarioInicio": "19:00",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 6,
+            "idPelicula": 298618,
+            "idSala": 6,
+            "horarioInicio": "21:30",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 7,
+            "idPelicula": 667538,
+            "idSala": 7,
+            "horarioInicio": "18:00",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 8,
+            "idPelicula": 667538,
+            "idSala": 8,
+            "horarioInicio": "19:00",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 9,
+            "idPelicula": 667538,
+            "idSala": 9,
+            "horarioInicio": "21:30",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 10,
+            "idPelicula": 667538,
+            "idSala": 10,
+            "horarioInicio": "18:00",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 11,
+            "idPelicula": 667538,
+            "idSala": 11,
+            "horarioInicio": "19:00",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 12,
+            "idPelicula": 667538,
+            "idSala": 12,
+            "horarioInicio": "21:30",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 13,
+            "idPelicula": 346698,
+            "idSala": 13,
+            "horarioInicio": "18:00",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 14,
+            "idPelicula": 346698,
+            "idSala": 14,
+            "horarioInicio": "19:00",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 15,
+            "idPelicula": 346698,
+            "idSala": 15,
+            "horarioInicio": "21:30",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 16,
+            "idPelicula": 346698,
+            "idSala": 1,
+            "horarioInicio": "18:00",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 17,
+            "idPelicula": 346698,
+            "idSala": 2,
+            "horarioInicio": "19:00",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 18,
+            "idPelicula": 346698,
+            "idSala": 3,
+            "horarioInicio": "21:30",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 19,
+            "idPelicula": 1040148,
+            "idSala": 4,
+            "horarioInicio": "18:00",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 20,
+            "idPelicula": 1040148,
+            "idSala": 5,
+            "horarioInicio": "19:00",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 21,
+            "idPelicula": 1040148,
+            "idSala": 6,
+            "horarioInicio": "21:30",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 22,
+            "idPelicula": 1040148,
+            "idSala": 7,
+            "horarioInicio": "18:00",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 23,
+            "idPelicula": 1040148,
+            "idSala": 8,
+            "horarioInicio": "19:00",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 24,
+            "idPelicula": 1040148,
+            "idSala": 9,
+            "horarioInicio": "21:30",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 25,
+            "idPelicula": 459003,
+            "idSala": 10,
+            "horarioInicio": "18:00",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 26,
+            "idPelicula": 459003,
+            "idSala": 11,
+            "horarioInicio": "19:00",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 27,
+            "idPelicula": 459003,
+            "idSala": 12,
+            "horarioInicio": "21:30",
+            "price": "10000",
+            "fecha": "2023-08-08"
+        },
+        {
+            "id": 28,
+            "idPelicula": 459003,
+            "idSala": 13,
+            "horarioInicio": "18:00",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 29,
+            "idPelicula": 459003,
+            "idSala": 14,
+            "horarioInicio": "19:00",
+            "price": "10000",
+            "fecha": "2023-08-09"
+        },
+        {
+            "id": 30,
+            "idPelicula": 459003,
+            "idSala": 15,
+            "horarioInicio": "21:30",
+            "price": "10000",
+            "fecha": "2023-08-09"
         }
     ],
     "tikect": [
@@ -126,7 +359,8 @@
                 "email": "",
                 "codigoCompra": "",
                 "StatusTransaction": true
-            }
+            },
+            "fechaCompra": ""
         }
     ],
     "admin" : [
