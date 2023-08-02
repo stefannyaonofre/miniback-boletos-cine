@@ -353,14 +353,14 @@
     "tikect": [
         {
             "id": 1,
-            "idFuncion": 1,
-            "codigoSilla": ["A1", "A2"],
+            "idFuncion": 14,
+            "codigoSilla": ["C3", "C4"],
             "comprador":{
-                "email": "",
-                "codigoCompra": "",
+                "email": "joel@gmail.com",
+                "codigoCompra": 238920483,
                 "StatusTransaction": true
             },
-            "fechaCompra": ""
+            "fechaCompra": "2023-08-02"
         }
     ],
     "admin" : [
