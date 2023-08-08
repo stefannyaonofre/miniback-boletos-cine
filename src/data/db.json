@@ -115,7 +115,8 @@
             "idSala": 1,
             "horarioInicio": "18:00",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 1
         },
         {
             "id": 2,
@@ -123,7 +124,8 @@
             "idSala": 2,
             "horarioInicio": "19:00",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 1
         },
         {
             "id": 3,
@@ -131,7 +133,8 @@
             "idSala": 3,
             "horarioInicio": "21:30",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 1
         },
         {
             "id": 4,
@@ -139,7 +142,8 @@
             "idSala": 4,
             "horarioInicio": "18:00",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 1
         },
         {
             "id": 5,
@@ -147,7 +151,8 @@
             "idSala": 5,
             "horarioInicio": "19:00",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 2
         },
         {
             "id": 6,
@@ -155,7 +160,8 @@
             "idSala": 6,
             "horarioInicio": "21:30",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 2
         },
         {
             "id": 7,
@@ -163,7 +169,8 @@
             "idSala": 7,
             "horarioInicio": "18:00",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 2
         },
         {
             "id": 8,
@@ -171,7 +178,8 @@
             "idSala": 8,
             "horarioInicio": "19:00",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 2
         },
         {
             "id": 9,
@@ -179,7 +187,8 @@
             "idSala": 9,
             "horarioInicio": "21:30",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 2
         },
         {
             "id": 10,
@@ -187,7 +196,8 @@
             "idSala": 10,
             "horarioInicio": "18:00",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 3
         },
         {
             "id": 11,
@@ -195,7 +205,8 @@
             "idSala": 11,
             "horarioInicio": "19:00",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 3
         },
         {
             "id": 12,
@@ -203,7 +214,8 @@
             "idSala": 12,
             "horarioInicio": "21:30",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 3
         },
         {
             "id": 13,
@@ -211,7 +223,8 @@
             "idSala": 13,
             "horarioInicio": "18:00",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 3
         },
         {
             "id": 14,
@@ -219,7 +232,8 @@
             "idSala": 14,
             "horarioInicio": "19:00",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 3
         },
         {
             "id": 15,
@@ -227,7 +241,8 @@
             "idSala": 15,
             "horarioInicio": "21:30",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 3
         },
         {
             "id": 16,
@@ -235,7 +250,8 @@
             "idSala": 1,
             "horarioInicio": "18:00",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 1
         },
         {
             "id": 17,
@@ -243,7 +259,8 @@
             "idSala": 2,
             "horarioInicio": "19:00",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 1
         },
         {
             "id": 18,
@@ -251,7 +268,8 @@
             "idSala": 3,
             "horarioInicio": "21:30",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 1
         },
         {
             "id": 19,
@@ -259,7 +277,8 @@
             "idSala": 4,
             "horarioInicio": "18:00",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 1
         },
         {
             "id": 20,
@@ -267,7 +286,8 @@
             "idSala": 5,
             "horarioInicio": "19:00",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 2
         },
         {
             "id": 21,
@@ -275,7 +295,8 @@
             "idSala": 6,
             "horarioInicio": "21:30",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 2
         },
         {
             "id": 22,
@@ -283,7 +304,8 @@
             "idSala": 7,
             "horarioInicio": "18:00",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 2
         },
         {
             "id": 23,
@@ -291,7 +313,8 @@
             "idSala": 8,
             "horarioInicio": "19:00",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 2
         },
         {
             "id": 24,
@@ -299,7 +322,9 @@
             "idSala": 9,
             "horarioInicio": "21:30",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 2
+        
         },
         {
             "id": 25,
@@ -307,7 +332,8 @@
             "idSala": 10,
             "horarioInicio": "18:00",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 3
         },
         {
             "id": 26,
@@ -315,7 +341,8 @@
             "idSala": 11,
             "horarioInicio": "19:00",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 3
         },
         {
             "id": 27,
@@ -323,7 +350,8 @@
             "idSala": 12,
             "horarioInicio": "21:30",
             "price": "10000",
-            "fecha": "2023-08-08"
+            "fecha": "2023-08-08",
+            "cinemasId": 3
         },
         {
             "id": 28,
@@ -331,7 +359,8 @@
             "idSala": 13,
             "horarioInicio": "18:00",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 3
         },
         {
             "id": 29,
@@ -339,7 +368,8 @@
             "idSala": 14,
             "horarioInicio": "19:00",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 3
         },
         {
             "id": 30,
@@ -347,7 +377,8 @@
             "idSala": 15,
             "horarioInicio": "21:30",
             "price": "10000",
-            "fecha": "2023-08-09"
+            "fecha": "2023-08-09",
+            "cinemasId": 3
         }
     ],
     "tikect": [
